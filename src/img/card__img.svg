@@ -1,18 +1,6 @@
-<svg width="708" height="548" viewBox="0 0 708 548" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<g filter="url(#filter0_d_7_5)">
-<path d="M4 50C4 22.3858 26.3858 0 54 0H654C681.614 0 704 22.3858 704 50V490C704 517.614 681.614 540 654 540H54C26.3858 540 4 517.614 4 490V50Z" fill="url(#pattern0)" shape-rendering="crispEdges"/>
-</g>
+<svg width="700" height="540" viewBox="0 0 700 540" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M0 50C0 22.3858 22.3858 0 50 0H650C677.614 0 700 22.3858 700 50V490C700 517.614 677.614 540 650 540H50C22.3858 540 0 517.614 0 490V50Z" fill="url(#pattern0)"/>
 <defs>
-<filter id="filter0_d_7_5" x="0" y="0" width="708" height="548" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset dy="4"/>
-<feGaussianBlur stdDeviation="2"/>
-<feComposite in2="hardAlpha" operator="out"/>
-<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.15 0"/>
-<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_7_5"/>
-<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_7_5" result="shape"/>
-</filter>
 <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image0_7_5" transform="matrix(0.00115483 0 0 0.00149701 -0.282977 0)"/>
 </pattern>

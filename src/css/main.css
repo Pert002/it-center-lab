@@ -180,13 +180,12 @@ li {
 }
 
 .carousel-inner {
-    background-color: #000;
-    border-radius: 50px;
-    box-shadow: 7px 5px 7px black;
+    border-radius: 70px;
+    box-shadow: 9px 9px 7px black;
 }
 
 /* .carousel-item.active {
-    transition: all 0.3s ease!important;
+    transition: all 0.3s ease-out!important;
 } */
 
 .carousel__link {
