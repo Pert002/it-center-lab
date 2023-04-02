@@ -184,10 +184,6 @@ li {
     box-shadow: 9px 9px 7px black;
 }
 
-.carousel-item {
-    border-radius: 50px;
-}
-
 /* .carousel-item.active {
     transition: all 0.3s ease-out!important;
 } */
@@ -436,6 +432,9 @@ li {
     }
     .carousel-control-next {
         justify-content: center!important;
+    }
+    .carousel-inner {
+        border-radius: 30px;
     }
     .carousel-item-text {
         font-size: 18px;
